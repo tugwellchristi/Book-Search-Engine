@@ -1,7 +1,7 @@
 # Book Search Engine
 
 ## Project Description
- This project contains a RESTful API that was refactored to be a GraphQL API build with Apollo Server. The bones of this project include MERN stack, a React front end, MongoDB database and Node.js/Express server and modifications include authentication middleware, an Apollo Provider that communicates with an Apollo server, and queries and mutations that replace the existing RESTful API.
+ This project, a Google Books search engine, contains a RESTful API that was refactored to be a GraphQL API build with Apollo Server. The bones of this project include MERN stack, a React front end, MongoDB database and Node.js/Express server. Modifications include authentication middleware, an Apollo Provider that communicates with an Apollo server, and queries and mutations that replace the existing RESTful API. The result is a more performant application for users 
 
 ## Table of Contents
 - [Installation](#installation)
